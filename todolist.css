@@ -119,3 +119,6 @@ ul li span:hover{
     font-family: 'Courier New', Courier, monospace;
     color: rgb(0, 0, 0);
 }
+#input-box{
+    color: white;
+}
